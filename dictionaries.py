@@ -20,3 +20,16 @@ for league in championships:
 
 
 # %%
+
+student = {
+    "name" : "Niccoló",
+    "courses" : ["Programming", "Math", "Cloud"],
+    "key" : {
+        "whatever" : True
+    }
+}
+
+print(student)
+
+
+# %%
